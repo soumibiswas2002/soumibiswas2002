@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Soumi Biswas</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumibiswas2002&label=Profile%20views&color=0e75b6&style=flat" alt="soumibiswas2002" /> </p>
 
