@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **Bootstrap, react**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, react**
 
 - 📫 How to reach me **soumiisnoone@gmail.com**
 
